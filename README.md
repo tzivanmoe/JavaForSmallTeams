@@ -1,5 +1,7 @@
 # Introduction
 
+> 本开源书 forked from [Java for small teams](https://github.com/ncredinburgh/JavaForSmallTeams)，作者为 [ncredinburgh](https://github.com/ncredinburgh)，欢迎大家 star 原作者的 [repo](https://github.com/ncredinburgh/JavaForSmallTeams)，以便获得最新更新，谢谢！
+
 ## What is This?
 
 This book is an attempt to capture what *"good"* Java code looks like and the practices that help produce it.
